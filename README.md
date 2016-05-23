@@ -3,4 +3,4 @@
 This Shiny App is for showing transport system utilization in Singapore from year 1995 to 2015. The dataset is from data.gov.sg.
 
 Presentation: 
-https://cdn.rawgit.com/spicykimchi/sgtransportation/master/index.html
+https://cdn.rawgit.com/spicykimchi/sgtransportation/master/index.htm
